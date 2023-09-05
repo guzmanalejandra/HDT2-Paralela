@@ -17,9 +17,7 @@ Ensure you have an MPI implementation installed, such as [OpenMPI](https://www.o
 
 To compile the code, use the `mpicc` compiler:
 
-\```bash
-mpicc modified_mpiHello_v2.c -o mpiHello
-\```
+```mpicc modified_mpiHello_v2.c -o mpiHello```
 
 ## Execution
 
